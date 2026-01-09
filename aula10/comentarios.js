@@ -7,4 +7,5 @@ Comentário longo sobre
 a linha 4
 */
 console.log('Linha4');
+
 // console.log('Linha5'); fazendo a minha linha 5 virar um comentário e não ser executada no terminal

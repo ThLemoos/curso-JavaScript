@@ -30,3 +30,4 @@ console.log(`tem altura de ${altura} e seu IMC é de ${imc}`);
 console.log(`${nome} ${sobrenome} nasceu em ${anoNascimento}`);
 
 
+

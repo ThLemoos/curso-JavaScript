@@ -29,4 +29,3 @@ console.log(cliente);
 
 cliente = 'Antonio Silva'; // O identificador "cliente", agora terá valor de Antonio Silva e não Thiago lemos.
 console.log(cliente); // Aqui o motor do JavaScript lerá o último valor definido para a variável "cliente".
-

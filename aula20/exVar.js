@@ -12,3 +12,4 @@ console.log(varA, varB, varC);
 
 // Essa é uma maneira antiga de se resolver, um modelo mais atual é utilizando arrays
 
+

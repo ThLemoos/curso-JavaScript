@@ -7,3 +7,4 @@ var nome = 'Ferreira';
 console.log(nome); // Irá aparecer no console o último valor salvo para a variável nome
 
 // ECMAScript -- Estudar sobre depois!! 
+
